@@ -1,0 +1,28 @@
+name: Enza Di Lecce
+favicon: null
+layout_spectrum: 0.8279182659462094
+typography_spectrum: 0.6727766825351864
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8533179806545377
+  lightness: 0.853885745164007
+  saturation: 0.22070773458108306
+  rhythmicContrast: 0.1462896626908332
+purpose: []
