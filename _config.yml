@@ -1,7 +1,7 @@
 name: Enza Di Lecce
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.09849
+layout_spectrum: 1
+typography_spectrum: 0.79216
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#4a5956'
     - '#a78051'
   brandStrength: 0
-  lightness: 0.875
-  saturation: 0.3125
-  rhythmicContrast: 1
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
